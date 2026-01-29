@@ -54,8 +54,8 @@
 13. [Remote Developer体验现状（2019年7月）](https://www.digitalocean.com/blog/currents-july2019)
 14. [Datadog工程：让远程工作变得可行的9种方法](https://www.datadoghq.com/blog/pup-culture/9-ways-to-make-working-remote-work-for-you/)
 15. [办公室的衰落与远程工作者的兴起](https://www.zdnet.com/article/death-of-the-office-and-rise-of-the-telecommuter/)
-16. [分布式设计：Stack Overflow如何打造强大的远程团队](https://www.tedgoas.com/blog/distributed-design/
-17. 使用谷歌搜索找到“隐藏的”远程工作机会：[https://medium.com/ft-remote-job/how-to-find-hidden-remote-jobs-using-google-search-12ebaa2ea8ea?source=friends_link&sk=3bc251fed25dddd4c1a024ae4dd58e30]
+16. [分布式设计：Stack Overflow如何打造强大的远程团队](https://www.tedgoas.com/blog/distributed-design/)
+17. [使用谷歌搜索找到“隐藏的”远程工作机会：](https://medium.com/ft-remote-job/how-to-find-hidden-remote-jobs-using-google-search-12ebaa2ea8ea?source=friends_link&sk=3bc251fed25dddd4c1a024ae4dd58e30)
 18. GitLab的远程 Manifest 文件：[https://about.gitlab.com/blog/2015/04/08/the-remote-manifesto/]
 19. 给予人们工作地点的自由：[https://www.virgin.com/branson-family/richard-branson-blog]
 20. 分布式公司的招聘秘诀：[https://www.lullabot.com/articles/hiring-secrets-of-a-distributed-company]
@@ -295,7 +295,7 @@
 27. [Baselayer](https://www.baselayer.com/) - 数据中心和基础设施管理软件。  
 28. [BeBanjo](https://www.bebanjo.com/company/careers) - 用于管理视频点播的软件服务，支持Ruby / Rails、Elasticsearch和Sidekiq技术。  
 29. [Bilsteingroup](https://bilsteingroup.com/en/career/) - 汽车零部件行业的企业。使用Python、Java和Postgres等编程语言，在欧洲各地设有分支机构，总部位于德国。
-30.  [Binti](https://binti.com/current-openings/) - 儿童寄养服务。  
+30. [Binti](https://binti.com/current-openings/) - 儿童寄养服务。  
 31. [Bluespark Labs](https://www.bluespark.com/careers) - 网页开发咨询服务，同时还是Roomify的开发者。团队位于北卡罗来纳州罗利和意大利，采用远程办公模式。主要使用Drupal框架开发。  
 32. [Blend](https://blend.com/company/careers/) - 金融科技领域。  
 33. [BookingSync](https://www.smily.com/company/jobs) - 为专业人士提供度假住宿管理软件。团队实行完全分布式办公模式，每年会组织公司集体休假活动。作为Ember.js项目的官方赞助商，公司也支持Ruby/Rails开发技术。  
@@ -307,14 +307,14 @@
 39. [Cadasta](https://cadasta.org/) - 用于映射全球土地和资源权利的安全平台。团队完全远程办公；使用Python、Django、JavaScript和PostgreSQL技术。
 40. [Canonical](https://canonical.com/careers/all) - 专注于Ubuntu操作系统的开发。
 41. [Ceros](https://labs.ceros.com/jobs/#/) - 暂无相关信息。
-42.  [Chef](https://www.chef.io/careers) - 我们专注于IT自动化，以追求速度和卓越。使用Ruby、JavaScript和Shell脚本语言。总部位于西雅图，但我们的员工遍布美国各地。
+42. [Chef](https://www.chef.io/careers) - 我们专注于IT自动化，以追求速度和卓越。使用Ruby、JavaScript和Shell脚本语言。总部位于西雅图，但我们的员工遍布美国各地。
 43. [Ciao Bambino](https://ciaobambino.com/) - 提供家庭度假目的地信息及酒店评价。
 44. [Circonus](https://www.apica.io) - 提供SaaS形式的监控、分析、警报等功能。支持C、Go、Java、Perl等编程语言。总部位于蒙大拿州富尔顿，大多数员工采用远程工作模式。
 45. [Clevertech](https://lumenalta.com/remote-jobs) - 我们致力于开发令人惊叹的、具有变革性的技术。
 46. [Codeship](https://www.cloudbees.com/products/codeship) - 提供SaaS形式的持续交付解决方案。
 47. [CodeWeavers](https://www.codeweavers.com/about/jobs) - 以Wine为平台提供开源软件。
 48. [Collabora](https://www.collabora.com/careers.html) - 提供基于开源软件的咨询服务。
-49.  [ConsenSys](https://consensys.io/careers) - 一家区块链软件技术公司，在全球各地设有办事处，员工分布在更多地点。
+49. [ConsenSys](https://consensys.io/careers) - 一家区块链软件技术公司，在全球各地设有办事处，员工分布在更多地点。
 50. [Continu](https://www.continu.com/) - 为现代团队提供持续学习功能的软件。
 51. [Coursera](https://careers.coursera.com/jobs/search) - 在线课程平台。
 52. [CRO Metrics](https://crometrics.com/careers/) - 以数据为驱动的软件开发和增长计划。
@@ -322,7 +322,7 @@
 54. [Crossover](https://app.crossover.com/x/marketplace/available-jobs) - 基于项目的Java、.Net和DevOps相关岗位。
 55. [Customer.io](https://customer.io/careers) - 客户互动平台，完全远程办公，团队分布于全球各地。所需技能包括Go语言、MySQL、TypeScript、Ember、React等。
 56. [DataCose](https://www.datacose.com) - 客户网站开发和定制自动化解决方案，支持Python、Vue.js、TypeScript语言。
-57.  [Datadog](https://careers.datadoghq.com) - 适用于现代动态基础设施的易于使用且可扩展的监控系统。团队分布在纽约、波士顿和巴黎，工程师来自世界各地。
+57. [Datadog](https://careers.datadoghq.com) - 适用于现代动态基础设施的易于使用且可扩展的监控系统。团队分布在纽约、波士顿和巴黎，工程师来自世界各地。
 58. [DataStax](https://www.datastax.com/company/careers) - 基于Apache Cassandra的咨询服务。
 59. [Deeson](https://manifesto.co.uk/) - 总部位于英国，拥有欧洲团队。专注于Drupal、Symfony和Laravel的数字机构。
 60. [DigitalOcean](https://www.digitalocean.com/careers) - 为开发者设计的简单云托管服务。
@@ -330,7 +330,7 @@
 62. [DNSimple](https://dnsimple.com/) - 小型、100%远程工作的团队，致力于让域名管理变得简单。
 63. [Docker](https://www.docker.com/career-openings/) - 
 64. [Doist](https://doist.com/careers) - 自2007年以来一直在重新定义生产力。
-65.  [DoIT](https://careers.doit.com/) - 专注于技术和云领域的专业知识。  
+65. [DoIT](https://careers.doit.com/) - 专注于技术和云领域的专业知识。  
 66. [Dotnetos](https://dotnetos.org/) - 关于Dotnet技术的会议、聚会和培训课程。  
 67. [Doximity](https://workat.doximity.com) - 美国最大的在线医疗网络，成员为医生。涉及Ruby、Rails、Go、JavaScript、MySQL等技术。  
 68. [Drupal协会](https://assoc.drupal.org/jobs) - 支持Drupal项目的非营利组织。  
@@ -338,19 +338,19 @@
 70. [EasyCommunicationTechnology](https://www.easycomtec.com/homeoffice/developer) - 使用C#、Angular、Azure进行.NET开发。是一家以远程办公为特色的公司。  
 71. [Elastic](https://www.elastic.co/) - 开源搜索与分析工具。  
 72. [Eloquentix](https://www.eloquentix.com/) - 一家在3个大洲、9个时区都有办事处的远程办公公司。
-73.  [Envato](https://www.envato.com/about/careers/) - 主题森林及其他在线市场的创造者。涉及MySQL、Ruby、Rails、JavaScript等技术。团队分布于澳大利亚墨尔本，总部位于澳大利亚墨尔本。
+73. [Envato](https://www.envato.com/about/careers/) - 主题森林及其他在线市场的创造者。涉及MySQL、Ruby、Rails、JavaScript等技术。团队分布于澳大利亚墨尔本，总部位于澳大利亚墨尔本。
 74. [Ergeon](https://www.ergeon.com/careers/) - 家庭服务及建筑公司。全远程办公模式，总部位于加利福尼亚州帕洛阿尔托，但全球范围内招聘员工。
 75. [Etsy](https://careers.etsy.com) - 艺术家市场平台。涉及MySQL、Memcache、PHP等技术。总部位于都柏林、巴黎、旧金山、纽约、伦敦和墨尔本等地。
 76. [ExportData](https://www.exportdata.io/) - 导出、搜索与分析Twitter数据。涉及Ruby、Rails、React.JS、Terraform、AWS等技术。
 77. [Factorial](https://factorialhr.com/) - 为中小企业提供的人力资源管理平台。
 78. [Feeld](https://feeld.co/) - 情侣和单身人士的约会应用。
 79. [Findify](https://findify.io/) - 由机器学习和大数据驱动的电子商务搜索平台。团队分布在欧洲各地。
-80.  [General Assembly](https://generalassemb.ly/careers) - 提供技术、商业和设计领域的线下及线上教育。  
+80. [General Assembly](https://generalassemb.ly/careers) - 提供技术、商业和设计领域的线下及线上教育。  
 81. [Ghost](https://ghost.org/about/#careers) - 出版平台。  
 82. [Giant Swarm](https://www.giantswarm.io/) - Giant Swarm的托管微服务基础设施能够帮助企业大规模运行敏捷、弹性且分布式的系统，同时免除管理复杂底层基础设施的繁琐任务。  
 83. [Gigster](https://gigster.com/) - 全球顶尖5%自由职业者组成的网络。提供项目经理、开发工程师、销售等职位。  
 84. [TestGrid](https://testgrid.io/) - 领先的端到端自动化云和本地化测试解决方案提供商。TestGrid凭借其创新的AI技术，帮助组织简化测试流程。正在全球范围内招聘开发人员、销售及市场营销人员。
-85.  [HeadSpin](https://www.headspin.io/) - 全球首个数字体验AI平台，结合了云托管和本地化全球设备基础设施、测试自动化以及基于机器学习的技术，为移动应用、网页、音频和视频提供性能与体验质量的分析。
+85. [HeadSpin](https://www.headspin.io/) - 全球首个数字体验AI平台，结合了云托管和本地化全球设备基础设施、测试自动化以及基于机器学习的技术，为移动应用、网页、音频和视频提供性能与体验质量的分析。
 86. [GitBook](https://gitbook.gitbook.io/join-gitbook) - 基于Git的出版工具链。支持JavaScript、Node.js和Go语言。
 87. [GitHub](https://www.github.careers/careers-home)
 88. [GitLab](https://about.gitlab.com/jobs/) - 与GitHub竞争的平台。
@@ -359,13 +359,13 @@
 91. [GrooveHQ](https://www.groovehq.com/about) - 帮助台软件解决方案。
 92. [GoGuardian](https://www.goguardian.com/careers) - K-12阶段的数字学习环境解决方案。
 93. [Harvest](https://www.getharvest.com/careers) - 时间跟踪软件。
-94.  [HashiCorp](https://www.hashicorp.com/careers) - 开源工具，用于自动化现代数据中心的管理工作。编程语言：Go、Ruby、Rails、Ember、JavaScript。
+94. [HashiCorp](https://www.hashicorp.com/careers) - 开源工具，用于自动化现代数据中心的管理工作。编程语言：Go、Ruby、Rails、Ember、JavaScript。
 95. [Hatica](https://www.hatica.io) - 为工程团队提供工作分析工具：Hatica为工程领导者和管理者提供可操作的洞察力，以促进工作协调、加快交付速度、提升团队参与度以及促进团队福祉。
 96. [Heap](https://www.heap.io/careers/jobs) - 网络与移动分析领域的工作机会。我们的8位团队成员中有2位在远程工作。
 97. [Heetch](https://www.heetch.com/jobs) - 提供骑贷服务，业务覆盖欧洲和非洲地区。工作地点完全可以在欧洲或类似时区进行远程办公。编程语言：Go、AWS。
 98. [Help Scout](https://www.helpscout.com/company/careers/) - 为那些注重提供卓越客户体验的团队提供帮助台服务。
 99. [Heroku](https://www.heroku.com/careers) - 基于PaaS的云服务平台，让开发者的体验变得非常出色。编程语言：Ruby、Erlang、JavaScript、Golang、Python。
-100.  [Honeybadger](https://www.honeybadger.io/) - 编程语言：Ruby。完全远程工作。
+100. [Honeybadger](https://www.honeybadger.io/) - 编程语言：Ruby。完全远程工作。
 101. [Hotjar](https://www.hotjar.com/careers/) - 分析与反馈工具。
 102. [Igalia](https://www.igalia.com/about/) - 开源咨询公司。总部位于西班牙。
 103. [Incsub](https://incsub.com/careers/) - 负责开发WordPress项目的远程团队。
@@ -374,19 +374,19 @@
 106. [Instructure](https://www.instructure.com/about/careers) - 我们致力于开发让人们变得更聪明的软件。
 107. [Intellum](https://www.intellum.com/) - 我们致力于开发员工协作、绩效和学习工具。支持的语言包括Ruby、iOS、Android、AWS和GCS。
 108. [Intevity](https://www.intevity.com/)
-109.  [Intuition Machines, Inc.](https://apply.workable.com/imachines/) - Intuition Machines专注于大规模深度学习和视觉领域机器学习技术。支持Python、JavaScript、Kubernetes、Kafka、Dask/Spark以及机器学习/计算机视觉相关技术。
+109. [Intuition Machines, Inc.](https://apply.workable.com/imachines/) - Intuition Machines专注于大规模深度学习和视觉领域机器学习技术。支持Python、JavaScript、Kubernetes、Kafka、Dask/Spark以及机器学习/计算机视觉相关技术。
 110. [InVision](https://www.invisionapp.com/company#jobs) - 提供原型设计、协作与工作流程平台。
 111. [Iterative](https://iterative.notion.site/Iterative-ai-is-Hiring-852cb978129645e1906e2c9a8784d22) - 为团队提供机器学习模型开发服务，支持远程工作，覆盖全球范围。
 112. [iRonin.IT](https://careers.ironin.it) - 软件公司，提供波兰语版本的服务，使用Ruby on Rails、Node.js、JavaScript、React、Angular以及Vue.js等技术。
 113. [Isos Technology](https://careers.isostech.com/) - 领先的Atlassian铂金级合作伙伴及企业级解决方案提供商，利用Atlassian工具帮助组织解决复杂的开发及业务问题。
 114. [Jackson River](https://www.jacksonriver.com/about) - 为非营利组织提供以数字为先的技术与策略服务。
-115.  [Jibble Group](https://careers.jibblegroup.com/) - 一个由来自15个不同国家的团队成员组成的远程团队，致力于打造世界级的劳动力管理与薪资管理软件服务。  
+115. [Jibble Group](https://careers.jibblegroup.com/) - 一个由来自15个不同国家的团队成员组成的远程团队，致力于打造世界级的劳动力管理与薪资管理软件服务。  
 116. [journy.io](https://www.journy.io/about-us) - 客户数据平台。  
 117. [Judge.me](https://judge.me/) - 电子商务领域的评论平台。我们的公司采用全远程办公模式，在四大洲范围内运营。  
 118. [Keepsafe](https://www.getkeepsafe.com) - 以移动设备为先的隐私产品，让全球用户轻松加入隐私保护计划。  
 119. [Khan Academy](https://www.khanacademy.org/careers) - 教育科技领域。非营利组织，专注于K-12阶段的STEM教育。涉及React、Flux、Backbone、jQuery、Python、Google App Engine、Swift以及Objective-C等技术。  
 120. [Knack](https://www.knack.com/careers/) - 一款易于使用的在线数据库工具，帮助客户简化业务流程并自动化工作流程。该产品采用无代码/低代码设计，公司采用全远程办公模式运营。
-121.  [LaunchPotato](https://launchpotato.com/careers) - 位于佛罗里达州德尔雷海滩的创业公司。  
+121. [LaunchPotato](https://launchpotato.com/careers) - 位于佛罗里达州德尔雷海滩的创业公司。  
 122. [Librato](https://jobs.solarwinds.com/) - 云监控服务供应商。  
 123. [Linaro](https://www.linaro.org/careers/) - 基于ARM架构的开源工程解决方案提供商。  
 124. [Lincoln Loop](https://lincolnloop.com) - 网页开发工作室。  
@@ -395,14 +395,14 @@
 127. [log.dog](https://log.dog) - 用于iOS和Android应用程序的远程调试和日志记录工具。完全采用远程办公模式。  
 128. [Logit.io](https://logit.io/about-us/#careers) - 一家完全以远程方式运作的日志和指标管理公司，所有运营和开发工作均通过远程方式进行。  
 129. [Lullabot](https://www.lullabot.com/jobs) - 使用Drupal技术进行策略制定、设计及开发工作。
-130.  [madewithlove](https://madewithlove.com/careers/) - 我们帮助企业开发数字产品，为那些似乎陷入困境的团队带来新的活力。  
+130. [madewithlove](https://madewithlove.com/careers/) - 我们帮助企业开发数字产品，为那些似乎陷入困境的团队带来新的活力。  
 131. [Maintainer Mountaineer](https://maintainer.io) - 提供开源社区管理服务。  
 132. [MailerLite](https://www.mailerlite.com/) - 电子邮件营销工具，拥有遍布全球的远程团队。每年两次，他们会前往巴厘岛、巴拿马和迈阿密等地进行工作度假。  
 133. [MariaDB](https://mariadb.com/about-us/careers/) - 开源数据库。  
 134. [MarsBased](https://marsbased.com) - 来自巴塞罗那的开发咨询公司，提供基于Ruby on Rails、Angular和其他JavaScript框架的端到端网页和移动应用开发服务。  
 135. [Mapbox](https://www.mapbox.com/careers) - 为各种平台提供地图集成工具。  
 136. [Maxim](https://www.getmaxim.ai) - 人工智能代理仿真、评估与可观测性平台。
-137.  [MeetEdgar](https://meetedgar.com/careers) - 自动化社交分享服务。美国远程工作。
+137. [MeetEdgar](https://meetedgar.com/careers) - 自动化社交分享服务。美国远程工作。
 138. [Meta](https://www.metacareers.com/jobs/) - 原Facebook和Instagram的合并公司。可筛选远程工作职位。
 139. [Merico](https://www.devinsight.ai/) - 代码深度分析引擎。
 140. [Mixmax](https://www.mixmax.com/) - 提供具有超级功能的电子邮件服务。
@@ -411,14 +411,14 @@
 143. [Modus Create](https://moduscreate.com/) - Modus是一家由世界级人才驱动的数字设计建造机构，专注于PHP和JavaScript领域。
 144. [Mode Analytic](https://www.thoughtspot.com/careers) - 商业智能领域的工作机会。
 145. [Mosalingua](https://www.mosalingua.com/en/jobs/) - 学习词汇，享受世界。
-146.  [Mozilla](https://www.mozilla.org/en-US/careers/listings/) - Firefox在位置搜索栏中设有“Remote”选项。  
+146. [Mozilla](https://www.mozilla.org/en-US/careers/listings/) - Firefox在位置搜索栏中设有“Remote”选项。  
 147. [NearForm](https://www.nearform.com/careers/) - NearForm通过开发高性能、开源软件来推动企业的发展。我们的全球团队使用现代流程和工具，帮助客户快速创新。  
 148. [Netlandish](https://www.netlandish.com/) - 为各种规模的企业提供软件开发服务。支持Python、Django、DevOps等技术，完全支持远程工作模式。  
 149. [Netsparker](https://www.invicti.com/careers/) - 网络应用安全扫描工具提供商。  
 150. [NinjaCat](https://www.ninjacat.io/company/about-us) - 为顶尖数字咨询公司提供报告、监控和电话跟踪平台。  
 151. [Niteo](https://niteo.co/careers) - 成立十年的SaaS工作室，充满创意，致力于为小型企业提供智能解决方案。  
 152. [NodeSource](https://nodesource.com/about) - 致力于为Node.js创建一个可持续发展的生态系统。
-153.  [Nozbe](https://nozbe.com/careers) - 适用于Mac、Windows、Linux、Android、iPad和iPhone的GTD应用程序。  
+153. [Nozbe](https://nozbe.com/careers) - 适用于Mac、Windows、Linux、Android、iPad和iPhone的GTD应用程序。  
 154. [Neon Postgres Database](https://neon.tech/careers) - Neon是一个分布式、完全远程的团队构建开源、云原生Postgres解决方案。Neon是AWS Aurora或Google的Cloud SQL的开放源代码替代方案。  
 155. [Olark](https://www.olark.com/jobs) - 聊天支持系统。  
 156. [onTheGo Systems](https://onthegosystems.com:443/jobs/) - WordPress开发、支持人员及市场营销相关职位。  
@@ -426,13 +426,13 @@
 158. [Parknav](https://parknav.com) - 利用人工智能的智能停车系统。  
 159. [Parsely](https://www.parse.ly/careers/) - 分析解决方案。  
 160. [Particular Software (NServiceBus)](https://particular.net/careers) - 企业服务总线、消息传递、C#语言、开源解决方案。
-161.  [Patients Know Best](https://apply.workable.com/patients/) – 帮助患者管理自己的护理事务，使专业人士能够共享信息，同时提高支付方的效率。
+161. [Patients Know Best](https://apply.workable.com/patients/) – 帮助患者管理自己的护理事务，使专业人士能够共享信息，同时提高支付方的效率。
 162. [Paylocity](https://www.paylocity.com/careers/) – 提供人力资源和薪资管理解决方案。
 163. [Peakforce](https://www.peakforce.dev) – 与Atlassian（Jira、Confluence）和Splunk（SIEM、可观测性）合作，提供许可证办理、实施、迁移以及咨询服务。
 164. [Pilot](https://plane.com) – Pilot是一个软件平台，可消除合同工作的所有麻烦。我们为世界各地的数百名工程师和设计师寻找工作、协商合同、发送发票并追讨付款。
 165. [Pleo](https://www.pleo.io/en/careers) – Pleo是一家公司支付卡解决方案提供商，可自动化费用报告并简化公司开支管理。
 166. [Precision Nutrition](https://www.precisionnutrition.com/) – 提供在线营养咨询和认证服务。
-167.  [PreviousNext](https://www.previousnext.com.au) - 位于澳大利亚的Drupal开发机构。
+167. [PreviousNext](https://www.previousnext.com.au) - 位于澳大利亚的Drupal开发机构。
 168. [Prezly](https://www.prezly.com/) - 基于SaaS的PR平台。支持PHP、React、JS、Postgres等技术。完全远程办公。
 169. [Prodperfect](https://prodperfect.com/) - 基于实时用户数据的自动化QA测试服务。以远程办公为主，总部位于波士顿和旧金山。
 170. [ProFinda](https://www.profinda.com/) - 员工规划与优化服务。完全远程的开发团队，使用Ruby on Rails、React.js和Python等技术。公司总部位于英国。
@@ -440,27 +440,27 @@
 172. [RainforestQA](https://jobs.lever.co/rainforest) - 按需提供的QA服务。
 173. [RebelMouse](https://www.rebelmouse.com/st/blog) - 社交发布平台。面向Python、JS以及iOS/Android开发人员的平台。团队分布在全球各地。
 174. [Recurly](https://recurly.com/careers/) - 为订阅制业务提供 recurring billing管理服务。
-175.  [Red Hat](https://www.redhat.com/en/jobs)  
+175. [Red Hat](https://www.redhat.com/en/jobs)  
 176. [Redox](https://redoxengine.com/company/careers/) - 医疗API平台。拥有以远程工作为主的优秀团队。  
 177. [Relevant Bits](https://relevantbits.com) - Relevant Bits通过数据、设计、技术以及批判性思维，积极提升客户体验与成果。公司位于加拿大安大略省，完全采用远程办公模式。  
 178. [RenoFi](https://www.renofi.com/careers/) - 从第一天起就采用100%远程办公模式。所需技能包括Ruby、React.js、GraphQL、Kubernetes等。  
 179. [Riak](https://riak.com/careers/) - 开源平台及键值数据库。我们在Erlang语言上进行开发，工作地点位于云端。所有员工都采用远程办公模式，每年会在西雅图的总部聚会几次。  
 180. [RightScale](https://www.flexera.com/about-us/careers)  
 181. [Sangoma](https://sangoma.com/) - 全球可扩展VoIP电话系统的领先供应商，提供现场和云解决方案。所需技能包括C语言、PHP、Python、JavaScript、Linux、FreePBX、VoIP等。
-182.  [SearchApi](https://www.searchapi.io/) - 实时API，用于访问Google、Bing、Baidu、Amazon、Youtube及其他搜索引擎的结构化搜索结果。支持Ruby、Rails、Hotwire、TailwindCSS、PostgreSQL、Redis、Sidekiq、Terraform等技术。
+182. [SearchApi](https://www.searchapi.io/) - 实时API，用于访问Google、Bing、Baidu、Amazon、Youtube及其他搜索引擎的结构化搜索结果。支持Ruby、Rails、Hotwire、TailwindCSS、PostgreSQL、Redis、Sidekiq、Terraform等技术。
 183. [Sketch](https://www.sketch.com/about-us/#careers-at-sketch) - 适用于Mac的设计工具。
 184. [SerpApi](https://serpapi.com/team) - 实时API，用于访问Google、Youtube、eBay及其他搜索引擎的结构化搜索结果。支持Ruby、Rails、React.js等技术。
 185. [ServiceNow](https://www.jobvite.com/support/job-seeker-support/?invalid=1) - 企业级云计算服务，旨在提升服务品质、激发员工活力，并改变企业的运作方式。适合高速工作。
 186. [ShakaCode](https://www.shakacode.com/career/) - 全球性的网页开发软件咨询及产品公司。
 187. [Shiphero](https://shiphero.breezy.hr/?&remote=remote#positions) - ShipHero提供功能齐全的仓库管理系统。完全远程办公。
-188.  [Shogun](https://getshogun.com/) - 构建并优化电子商务着陆页。使用语言：Ruby / Rails、Go、JavaScript、React。全远程工作。
+188. [Shogun](https://getshogun.com/) - 构建并优化电子商务着陆页。使用语言：Ruby / Rails、Go、JavaScript、React。全远程工作。
 189. [Signal](https://signal.org/workworkwork/) - 这些人开发了出色的Signal应用程序。仅在美国运营。
 190. [Skyscrapers](https://skyscrapers.eu/join-us/) - 云主机服务与管理系统。与多种云服务提供商合作（如AWS、Digital Ocean、Linode等）。全远程工作。
 191. [SoftwareMill](https://softwaremill.com/join-us/)
 192. [Soshace](https://soshace.com/) - 面向Angular/React/Vue.js/Java/Python的远程开发公司。
 193. [Songspace](https://songspace.com) - 帮助音乐创作者协作、整理和分享作品，与专业团队合作。
 194. [Sourcegraph](https://github.com/sourcegraph/careers) - 为团队提供代码搜索和导航功能（自托管，开源项目）。完全远程工作，不受时区限制。
-195.  [Spreaker](https://careers.spreaker.com/opportunities/) 创建、主持、分发您的播客，并从中获利。所有工程师都是远程工作的。所需技术栈：JavaScript（React、Node.js）、PHP（Symfony）、iOS、Android。所有服务均托管在AWS上。
+195. [Spreaker](https://careers.spreaker.com/opportunities/) 创建、主持、分发您的播客，并从中获利。所有工程师都是远程工作的。所需技术栈：JavaScript（React、Node.js）、PHP（Symfony）、iOS、Android。所有服务均托管在AWS上。
 196. [StackExchange](https://stackoverflow.co/company/work-here/)
 197. [Stream Native](https://streamnative.io) 基于Apache Pulsar的云原生消息传递和事件流处理服务。
 198. [Stripe](https://stripe.com/blog/remote-hub) Stripe致力于为互联网开发金融工具和基础设施。
@@ -468,35 +468,37 @@
 200. [SuperOrbital](https://superorbital.io/) 专注于Kubernetes的工程开发和培训。
 201. [Surevine](https://surevine.com/careers)
 202. [Surge](https://catalyte.wd1.myworkdayjobs.com/catalyte) 一家100%远程咨询公司，主要使用Node.JS、iOS、.NET、PHP和Android技术。
-203.  [Square](https://block.xyz/careers/jobs?businessUnits[]=square) - Square帮助数百万商家运营他们的业务，从安全的信用卡处理到销售点解决方案。产品：Square和Cash App。
+203. [Square](https://block.xyz/careers/jobs?businessUnits[]=square) - Square帮助数百万商家运营他们的业务，从安全的信用卡处理到销售点解决方案。产品：Square和Cash App。
 204. [Svix](https://www.svix.com/careers/) - 开源且基于云服务的Web钩子服务，让您能够在几天内而不是几个月内启动Web钩子。
 205. [Sysdig Cloud](https://sysdig.com/careers/open-positions/)
 206. [Taskade](https://www.taskade.com/contact) - 支持远程团队建设、实时协作以及团队协同编辑功能。
 207. [TaxJar](https://www.taxjar.com) - 消除销售税方面的困扰。
 208. [Teamed.io](https://www.teamed.io/)
 209. [TeamSnap](https://www.teamsnap.com/company/careers) - TeamSnap是排名第一的在线体育团队管理软件。80%的员工为远程工作。
-210. [TED](https://www.ted.com/about/our-organization/jobs-at-ted) - TED的技术团队负责支持tedu.com及内部工具。所有工程师均为远程工作。使用的技术包括Ruby on Rails、JavaScript和Ember.js。1. [Tesera](https://www.tesera.com/) - 我们打破传统思维的限制，拓展可能性的边界。我们在共同构建的未来中点燃变革的火花。  
-211. [The Grid](https://thegrid.io/) - 人工智能网站构建工具。团队完全采用分布式架构。  
-212. [Thermeon](https://thermeon.com/vacancies/) - 汽车租赁软件。技术团队完全采用远程工作模式。  
-213. [Thorn](https://thorn.org/careers) - 完全远程办公的公司，致力于研发对抗儿童性虐待和网络贩卖行为的技术。  
-214. [TimeDoctor](https://www.timedoctor.com/about) - 提供时间追踪功能、屏幕截图、网页和应用程序使用监控，以及多种集成方案。  
-215. [Toggl](https://toggl.com/jobs/)  
-216. [Toptal](https://www.toptal.com/careers) - 完全远程开发的开发公司，致力于解决全球人才短缺问题。  
-217. [Tortuga Backpacks](https://www.tortugabackpacks.com/pages/careers) - 适用于城市旅行的背包产品。  
-218. [Transloadit](https://transloadit.com/jobs/) - 自2009年以来，由开发者为开发者打造的全球最通用的文件上传和编码服务。1. [Trello](https://trello.com/jobs)  
-219. [TRM labs](https://www.trmlabs.com/careers)  
-220. [Truelogic](https://www.truelogic.io/careers) – 一家专注于为美国公司提供拉丁美洲人才的外包公司。  
-221. [Tyk](https://tyk.io/current-vacancies/) – 专注于API网关和API管理的公司，使用Go语言开发，采用开源模式。  
-222. [Vidalingua](https://www.vidalingua.com/amaze.php) – 让语言应用焕发活力的公司。  
-223. [WAAT](https://waat.eu/job/) – 一家能够适应项目需求的多功能数字机构。  
-224. [Water Lily Pond](https://waterlilypond.co.uk/) – 提供广告和营销传播服务。  
-225. [wemake.services](https://wemake.services/meta/) – 提供可重复的软件开发流程服务，完全远程办公，支持Python、JavaScript、Vue语言。  
-226. [Wheel](https://www.wheel.com/careers) – 一家医疗科技初创公司。  
-227. [Wikimedia](https://wikimediafoundation.org/about/jobs/)  
-228. [You Need a Budget](https://www.ynab.com/careers) – 提供银行同步、目标管理和债务管理服务。1. [Quora](https://www.careers.quora.com/) - 问答网站。
-229. [Zamphyr](https://zamphyr.com/) - 面向计算机科学学习的“学校2.0”。采用远程办公模式，主要使用JavaScript语言，部分项目使用Meteor框架。
-230. [Zapier](https://zapier.com/about)
-231. [ZipRecruiter](https://www.ziprecruiter.com/careers) - 提供Perl/Catalyst开发环境的平台，这里有一些最优秀的Perl开发者在远程工作。
+210. [TED](https://www.ted.com/about/our-organization/jobs-at-ted) - TED的技术团队负责支持tedu.com及内部工具。所有工程师均为远程工作。使用的技术包括Ruby on Rails、JavaScript和Ember.js。
+211. [Tesera](https://www.tesera.com/) - 我们打破传统思维的限制，拓展可能性的边界。我们在共同构建的未来中点燃变革的火花。  
+212. [The Grid](https://thegrid.io/) - 人工智能网站构建工具。团队完全采用分布式架构。  
+213. [Thermeon](https://thermeon.com/vacancies/) - 汽车租赁软件。技术团队完全采用远程工作模式。  
+214. [Thorn](https://thorn.org/careers) - 完全远程办公的公司，致力于研发对抗儿童性虐待和网络贩卖行为的技术。  
+215. [TimeDoctor](https://www.timedoctor.com/about) - 提供时间追踪功能、屏幕截图、网页和应用程序使用监控，以及多种集成方案。  
+216. [Toggl](https://toggl.com/jobs/)  
+217. [Toptal](https://www.toptal.com/careers) - 完全远程开发的开发公司，致力于解决全球人才短缺问题。  
+218. [Tortuga Backpacks](https://www.tortugabackpacks.com/pages/careers) - 适用于城市旅行的背包产品。  
+219. [Transloadit](https://transloadit.com/jobs/) - 自2009年以来，由开发者为开发者打造的全球最通用的文件上传和编码服务。
+220. [TRM labs](https://www.trmlabs.com/careers)  
+221. [Truelogic](https://www.truelogic.io/careers) – 一家专注于为美国公司提供拉丁美洲人才的外包公司。  
+222. [Tyk](https://tyk.io/current-vacancies/) – 专注于API网关和API管理的公司，使用Go语言开发，采用开源模式。  
+223. [Vidalingua](https://www.vidalingua.com/amaze.php) – 让语言应用焕发活力的公司。  
+224. [WAAT](https://waat.eu/job/) – 一家能够适应项目需求的多功能数字机构。  
+225. [Water Lily Pond](https://waterlilypond.co.uk/) – 提供广告和营销传播服务。  
+226. [wemake.services](https://wemake.services/meta/) – 提供可重复的软件开发流程服务，完全远程办公，支持Python、JavaScript、Vue语言。  
+227. [Wheel](https://www.wheel.com/careers) – 一家医疗科技初创公司。  
+228. [Wikimedia](https://wikimediafoundation.org/about/jobs/)  
+229. [You Need a Budget](https://www.ynab.com/careers) – 提供银行同步、目标管理和债务管理服务。
+230. [Quora](https://www.careers.quora.com/) - 问答网站。
+231. [Zamphyr](https://zamphyr.com/) - 面向计算机科学学习的“学校2.0”。采用远程办公模式，主要使用JavaScript语言，部分项目使用Meteor框架。
+232. [Zapier](https://zapier.com/about)
+233. [ZipRecruiter](https://www.ziprecruiter.com/careers) - 提供Perl/Catalyst开发环境的平台，这里有一些最优秀的Perl开发者在远程工作。
 
 ## 问答
 1. Quora: [远程办公与远程工作](https://www.quora.com/topic/Telecommuting-and-Working-Remotely) / [虚拟工作场所](https://www.quora.com/topic/Virtual-Workplace) / [在家工作](https://www.quora.com/topic/Working-at-Home)
@@ -536,27 +538,30 @@
 5. [Rocket.Chat](https://www.rocket.chat/) – 终极开源网络聊天平台。
 6. [Signal](https://signal.org/) – 加密且安全的聊天和视频通话服务。
 7. [Skype](https://www.skype.com/) – 视频通话工具。
-9. [Slack](https://slack.com/) – 提供文本、语音和视频聊天功能的系统，支持多种集成功能，包括[Huddles](https://slack.com/features/huddles)，这是一种实时高清屏幕共享系统，适用于团队间的协作。1. [Talky](https://talky.io/)——真正简单的视频聊天和群组屏幕共享工具  
-10. [TeamHub](https://git.live/)——直接在您的集成开发环境（IDE）中实时查看状态和进度  
-11. [沉浸式视频通话技巧](https://www.benkuhn.net/vc/)——关于沉浸式视频通话的实用技巧  
-12. [Twist](https://twist.com/)——一个沟通平台，让长篇讨论和随意的消息传递能够和谐共存  
-13. [Whereby](https://whereby.com)——基于浏览器的、无需插件的群组视频通话工具  
-14. [Zoom](https://www.zoom.com)——高质量的群组视频通话和屏幕共享功能，适用于Linux系统，可录制会议，并支持电话通话  
+9. [Slack](https://slack.com/) – 提供文本、语音和视频聊天功能的系统，支持多种集成功能，包括[Huddles](https://slack.com/features/huddles)，这是一种实时高清屏幕共享系统，适用于团队间的协作。
+10. [Talky](https://talky.io/)——真正简单的视频聊天和群组屏幕共享工具  
+11. [TeamHub](https://git.live/)——直接在您的集成开发环境（IDE）中实时查看状态和进度  
+12. [沉浸式视频通话技巧](https://www.benkuhn.net/vc/)——关于沉浸式视频通话的实用技巧  
+13. [Twist](https://twist.com/)——一个沟通平台，让长篇讨论和随意的消息传递能够和谐共存  
+14. [Whereby](https://whereby.com)——基于浏览器的、无需插件的群组视频通话工具  
+15. [Zoom](https://www.zoom.com)——高质量的群组视频通话和屏幕共享功能，适用于Linux系统，可录制会议，并支持电话通话  
 15. [Krisp](https://krisp.ai/)——在任何通信应用中都能消除背景噪音  
 16. [flat.social](https://flat.social/)——为在线会议、团队活动以及虚拟社交活动创造有趣的虚拟空间  
 
 ### 项目管理  
-1. [Asana](https://asana.com/)——适合分布式团队的项目管理工具1. [ClickUp](https://clickup.com/) - 一站式生产力平台，可将团队、任务和工具整合到同一平台上。
-2. [Harvest](https://www.getharvest.com/) - 时间跟踪工具。
-3. [StaffWatcher](https://staffwatcher.com/) - 时间跟踪工具。
-4. [Hitask](https://hitask.com/) - 为团队提供便捷的任务和项目管理功能。
-5. [Jira](https://www.atlassian.com/software/jira) - 问题和项目跟踪工具。
-6. [Notion](https://www.notion.so/) - 一站式工作空间，用于写作、规划、协作和整理事务。
-7. [Outplanr](https://www.outplanr.com/) - 项目与任务管理工具。
-8. [Pinitto.me](https://pinitto.me) - 轻量级实时无限虚拟便签应用（开源）。
-9. [Shortcut](https://www.shortcut.com/)（原Clubhouse） - 软件开发团队的项目管理工具。
-10. [Taskade](https://www.taskade.com/) - 为团队提供实时协作的笔记、检查清单和大纲功能。1. [Trello](https://trello.com/) - 精益项目管理板。
-2. [gantt-online](https://gantt-online.com/) - 甘特图项目管理工具。
+1. [Asana](https://asana.com/)——适合分布式团队的项目管理工具
+2.  [ClickUp](https://clickup.com/) - 一站式生产力平台，可将团队、任务和工具整合到同一平台上。
+3. [Harvest](https://www.getharvest.com/) - 时间跟踪工具。
+4. [StaffWatcher](https://staffwatcher.com/) - 时间跟踪工具。
+5. [Hitask](https://hitask.com/) - 为团队提供便捷的任务和项目管理功能。
+6. [Jira](https://www.atlassian.com/software/jira) - 问题和项目跟踪工具。
+7. [Notion](https://www.notion.so/) - 一站式工作空间，用于写作、规划、协作和整理事务。
+8. [Outplanr](https://www.outplanr.com/) - 项目与任务管理工具。
+9. [Pinitto.me](https://pinitto.me) - 轻量级实时无限虚拟便签应用（开源）。
+10. [Shortcut](https://www.shortcut.com/)（原Clubhouse） - 软件开发团队的项目管理工具。
+11. [Taskade](https://www.taskade.com/) - 为团队提供实时协作的笔记、检查清单和大纲功能。
+12. [Trello](https://trello.com/) - 精益项目管理板。
+13. [gantt-online](https://gantt-online.com/) - 甘特图项目管理工具。
 
 ### 其他
 1. [Coffitivity](https://coffitivity.com/) - Coffitivity可以重现咖啡馆的环境声音，从而提升你的创造力，帮助你更好地工作。
@@ -571,7 +576,8 @@
 
 ## 法律与金融
 
-1. [1099承包商](https://www.smartcapitalmind.com/what-is-a-1099-contractor.htm) – 美国的公司可以雇佣远程工作者。1. [Transferwise](https://wise.com/gb/business/payouts) - 向远程员工付款的便捷方式。
+1. [1099承包商](https://www.smartcapitalmind.com/what-is-a-1099-contractor.htm) – 美国的公司可以雇佣远程工作者。
+2. [Transferwise](https://wise.com/gb/business/payouts) - 向远程员工付款的便捷方式。
 
 ## 其他
 
@@ -582,7 +588,8 @@
 5. [Regus USA](https://www.regus.com/en-gb) - 提供行政套房、虚拟办公室及会议室空间。
 6. [Remote Companies on Careers SO](https://stackoverflow.com/jobs/companies?q=&l=&r=true)
 7. [Remote Working](https://github.com/greatghoul/remote-working) - 为华人提供的远程工作资源列表。
-8. [WorkFrom](https://workfrom.co/) - 寻找适合工作的咖啡店。2. [Websoft9](https://github.com/Websoft9/websoft9) - 开源软件自托管平台，一键安装200多种应用程序，包含Jiti Meet、Rocketchat、GitLab、Mattermost等远程工具。
+8. [WorkFrom](https://workfrom.co/) - 寻找适合工作的咖啡店。
+9. [Websoft9](https://github.com/Websoft9/websoft9) - 开源软件自托管平台，一键安装200多种应用程序，包含Jiti Meet、Rocketchat、GitLab、Mattermost等远程工具。
 
 
 ## 许可证-原
