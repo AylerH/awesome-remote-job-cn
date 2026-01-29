@@ -56,14 +56,14 @@
 15. [办公室的衰落与远程工作者的兴起](https://www.zdnet.com/article/death-of-the-office-and-rise-of-the-telecommuter/)
 16. [分布式设计：Stack Overflow如何打造强大的远程团队](https://www.tedgoas.com/blog/distributed-design/)
 17. [使用谷歌搜索找到“隐藏的”远程工作机会：](https://medium.com/ft-remote-job/how-to-find-hidden-remote-jobs-using-google-search-12ebaa2ea8ea?source=friends_link&sk=3bc251fed25dddd4c1a024ae4dd58e30)
-18. GitLab的远程 Manifest 文件：[https://about.gitlab.com/blog/2015/04/08/the-remote-manifesto/]
-19. 给予人们工作地点的自由：[https://www.virgin.com/branson-family/richard-branson-blog]
-20. 分布式公司的招聘秘诀：[https://www.lullabot.com/articles/hiring-secrets-of-a-distributed-company]
-21. GitHub 的工作原理：[https://zachholman.com/posts/how-github-works/]
-22. 有多少家公司是完全分布式的？（研究总结）：[https://scottberkun.com/2013/how-many-companies-are-100-distributed/]
-23. 究竟有多少人真正在家工作？（研究总结）：[https://scottberkun.com/2013/how-many-people-really-work-from-home-research-summary/]
-24. 如何在远程工作中集中注意力：[https://x-team.com/blog/focus-working-remotely]
-25.  [如何远程处理客户工作：我们的沟通方案](https://marsbased.com/blog/2015/12/07/how-to-handle-client-work-remotely-our-communication-stack)  
+18. [GitLab的远程 Manifest 文件：](https://about.gitlab.com/blog/2015/04/08/the-remote-manifesto/)
+19. [给予人们工作地点的自由：](https://www.virgin.com/branson-family/richard-branson-blog)
+20. [分布式公司的招聘秘诀：](https://www.lullabot.com/articles/hiring-secrets-of-a-distributed-company)
+21. [GitHub 的工作原理：](https://zachholman.com/posts/how-github-works/)
+22. [有多少家公司是完全分布式的？（研究总结）：](https://scottberkun.com/2013/how-many-companies-are-100-distributed/)
+23. [究竟有多少人真正在家工作？（研究总结）：](https://scottberkun.com/2013/how-many-people-really-work-from-home-research-summary/)
+24. [如何在远程工作中集中注意力：](https://x-team.com/blog/focus-working-remotely)
+25. [如何远程处理客户工作：我们的沟通方案](https://marsbased.com/blog/2015/12/07/how-to-handle-client-work-remotely-our-communication-stack)  
 26. [如何让远程工作更适合你](https://www.toptal.com/remote/how-to-make-remote-working-work-for-you)  
 27. [如何管理从不见面的一群人](https://qz.com/230998/how-to-run-a-team-of-people-who-never-see-each-other)  
 28. [如何远程提出改进建议](https://x-team.com/blog/suggest-improvements-remotely)  
@@ -84,14 +84,14 @@
 43. [在共享工作空间中的孤独工作者建立联系](https://www.nytimes.com/2013/05/05/fashion/solo-workers-bond-at-shared-workspaces.html)  
 44. [作为远程公司，我们做的5件最重要的事情](https://x-team.com/blog/5-important-things-remote-company)  
 45. [支持全远程公司的理由](https://about.gitlab.com/blog/2018/10/18/the-case-for-all-remote-companies/)
-46. 远程工作的未来：如何管理“雅霍人”？（https://www.economist.com/business/2013/03/02/corralling-the-yahoos?fsrc=scn%2Ftw%2Fte%2Fpe%2Fcorallingtheyahoos）
-47. 成为远程团队的利弊（以及我们是如何做到这一点的）？（https://blog.groovehq.com/being-a-remote-team）
-48. 最佳的远程团队文化（https://www.toptal.com/remote-work-playbook）
-49. 远程工作的“反派”角色（https://blog.dnsimple.com/2016/10/the-villains-of-remote-work/）
-50. 在远程工作中需要注意的事项（https://www.toptal.com/remote/remote-work-burnout-a-cautionary-tale）
-51. 获得远程工作的技巧（https://moduscreate.com/blog/tips-to-land-a-remote-job/）
-52. 为了提高工作效率，让更多员工在家工作吧（https://hbr.org/2014/01/to-raise-productivity-let-more-employees-work-from-home）
-53. 什么是分布式公司？（https://www.lullabot.com/articles/what-is-a-distributed-company）
+46. [远程工作的未来：如何管理“雅霍人”？](https://www.economist.com/business/2013/03/02/corralling-the-yahoos?fsrc=scn%2Ftw%2Fte%2Fpe%2Fcorallingtheyahoos)
+47. [成为远程团队的利弊（以及我们是如何做到这一点的）？](https://blog.groovehq.com/being-a-remote-team)
+48. [最佳的远程团队文化](https://www.toptal.com/remote-work-playbook)
+49. [远程工作的“反派”角色](https://blog.dnsimple.com/2016/10/the-villains-of-remote-work/)
+50. [在远程工作中需要注意的事项](https://www.toptal.com/remote/remote-work-burnout-a-cautionary-tale)
+51. [获得远程工作的技巧](https://moduscreate.com/blog/tips-to-land-a-remote-job/)
+52. [为了提高工作效率，让更多员工在家工作吧](https://hbr.org/2014/01/to-raise-productivity-let-more-employees-work-from-home)
+53. [什么是分布式公司？](https://www.lullabot.com/articles/what-is-a-distributed-company)
 54. [谁需要办公室？如何实现完全远程工作](https://www.entrepreneur.com/growing-a-business/who-needs-an-office-how-to-go-100-percent-remote/242708)  
 55. [为什么我选择远程工作（提示：这与工作效率无关）](https://signalvnoise.com/svn3/why-i-work-remotely-hint-it-has-nothing-to-do-with-productivity/)  
 56. [为什么 coworking 模式受到远程工作者和创业者的青睐](https://www.cio.com/article/300381/telecommuting-why-coworking-is-a-hit-for-telecommuters-and-entrepreneurs.html)  
@@ -120,19 +120,19 @@
 3. [Remote: 不需要办公室](https://basecamp.com/books/remote)。
 作者：Jason Fried和David Heinemeier Hansson（37signals），2013年出版。
 4. [远程工作的终极指南](https://zapier.com/resources/guides/remote-work)。由 Wade Foster (Zapier) 撰写，2015年。  
-5. 《没有裤子的年代：WordPress.com与工作的未来》（https://scottberkun.com/yearwithoutpants/）。作者：Scott Berkun，2013年。  
+5. [《没有裤子的年代：WordPress.com与工作的未来》](https://scottberkun.com/yearwithoutpants/)。作者：Scott Berkun，2013年。  
 
 ## 幽默  
-1. 《为什么在家工作既棒又糟糕》（https://theoatmeal.com/comics/working_home）  
+1. [《为什么在家工作既棒又糟糕》](https://theoatmeal.com/comics/working_home)  
 
 ## 招聘网站  
-1. 《随时随地工作》（https://www.realworkfromanywhere.com/）——一个完全不受地理位置限制的工作平台。该网站上的所有工作都可以在任何地点进行。  
-2. 《4天工作周》（https://4dayweek.io）——提供更优工作与生活平衡的软件类工作。  
-3. 《真实工作》（https://authenticjobs.com/?search_location=remote）  
-4. 《Built In》（https://builtin.com/jobs/remote）  
+1. [《随时随地工作》]（https://www.realworkfromanywhere.com/）——一个完全不受地理位置限制的工作平台。该网站上的所有工作都可以在任何地点进行。  
+2. [《4天工作周》](https://4dayweek.io)——提供更优工作与生活平衡的软件类工作。  
+3. [《真实工作》](https://authenticjobs.com/?search_location=remote)  
+4. [《Built In》](https://builtin.com/jobs/remote)  
 5. [ClojureJobboard.com](https://clojurejobboard.com/remote-clojure-jobs.html)——Clojure语言的工作岗位，筛选条件：仅远程工作。  
-6. 《加密货币工作》（https://crypto.jobs/?jobs=remote）——为加密货币爱好者提供的区块链相关工作。
-7.  [Crypto Jobs List](https://cryptojobslist.com/remote) - 排名第一的加密货币、比特币和区块链相关职位发布平台。
+6. [《加密货币工作》](https://crypto.jobs/?jobs=remote)——为加密货币爱好者提供的区块链相关工作。
+7. [Crypto Jobs List](https://cryptojobslist.com/remote) - 排名第一的加密货币、比特币和区块链相关职位发布平台。
 8. [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/remote/) - 筛选条件：*远程工作*
 9. [CyberJobHunt.in](https://cyberjobhunt.in/) - 在顶尖公司和初创企业中寻找网络安全相关职位。
 10. [Daily Remote](https://dailyremote.com) - 筛选并找到各类角色的远程工作机会！
@@ -141,7 +141,7 @@
 13. [Drupal Jobs](https://jobs.drupal.org/home/type/telecommute-remote-3588)
 14. [hiring.lat](https://hiring.lat) - 为拉丁美洲的员工提供透明的职位发布信息，包括远程工作或搬迁机会。
 15. [Findjobit](https://findjobit.com/jobs) - 为拉丁美洲的IT专业人士提供远程工作机会。
-16.  [freelancermap](https://www.freelancermap.com/projects/remote.html) - 面向IT专家的兼职及合同工作（主要涉及德语项目）
+16. [freelancermap](https://www.freelancermap.com/projects/remote.html) - 面向IT专家的兼职及合同工作（主要涉及德语项目）
 17. [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) 筛选条件 -> 仅限远程工作
 18. [Guru](https://www.guru.com/) - （除软件领域外，涵盖许多不同类别的职位）
 19. [HackerX](https://hackerx.org/jobs/)
@@ -161,7 +161,7 @@
 33. [Remote Frontend Jobs](https://www.remotefrontendjobs.com/) – 从全球顶级22个招聘平台中精选的远程前端工作职位  
 34. [PyJobs.com](https://www.pyjobs.com/?remoteLevel[0]=1&remoteLevel[1]=2) – 专为Python开发者设计的工作平台  
 35. [Remote Game Jobs](https://remotegamejobs.com/) – 寻找游戏行业的远程工作与人才
-36.  [remote-es/remotes](https://github.com/remote-es/remotes) - 该仓库列出了提供全职远程工作的公司，这些工作的合同语言为西班牙语。  
+36. [remote-es/remotes](https://github.com/remote-es/remotes) - 该仓库列出了提供全职远程工作的公司，这些工作的合同语言为西班牙语。  
 37. [thatmlopsguy/remote-pt](https://github.com/thatmlopsguy/remote-pt) - 该仓库列出了提供全职远程工作的公司，这些工作的合同语言为葡萄牙语。  
 38. [remote-jobs](https://github.com/remoteintech/remote-jobs) - 该列表包含了一些对远程工作环境较为友好的科技公司。  
 39. [Remotees](https://weworkremotely.com/?utm_source=Remotees&utm_medium=Redirect&utm_campaign=Remotees)  
@@ -170,7 +170,7 @@
 42. [Remote Works](https://remote.works-hub.com) - 专注于软件开发领域的远程工作信息。  
 43. [Ruby On Remote](https://rubyonremote.com/) - 汇集了所有与Ruby语言相关的远程工作信息。  
 44. [Skip the Drive](https://www.skipthedrive.com/)
-45.  [Slasify](https://slasify.com/en) - 提供远程技术、艺术/设计及营销方面的机会，包含全球薪资服务。
+45. [Slasify](https://slasify.com/en) - 提供远程技术、艺术/设计及营销方面的机会，包含全球薪资服务。
 46. [Stream Native Jobs](https://streamnative.io/careers) - 向下滚动至“加入我们”。
 47. [SwissDev Jobs](https://swissdevjobs.ch/) - 筛选条件：“远程/在家工作”。
 48. [Upwork](https://www.upwork.com) - 寻找各类远程工作机会。
@@ -181,7 +181,7 @@
 53. [We Work Remotely](https://weworkremotely.com/)
 54. [Workana](https://www.workana.com/) - 提供西班牙语和葡萄牙语的自由职业工作机会。
 55. [Working Nomads](https://www.workingnomads.com/jobs)
-56.  [zuhausejobs.com](https://zuhausejobs.com) - 德语国家（德国/奥地利/瑞士）的远程工作信息
+56. [zuhausejobs.com](https://zuhausejobs.com) - 德语国家（德国/奥地利/瑞士）的远程工作信息
 57. [Dataaxy](https://dataaxy.com) - 专注于数据和人工智能领域的招聘平台，主要服务北美地区
 58. [Freel](https://freel.ca) - 加拿大的自由职业者招聘平台
 59. [DevOpsJobs](https://devopsprojectshq.com) - 关于DevOps、系统可靠性工程、云计算及平台工程方面的工作机会
@@ -191,7 +191,7 @@
 
 ## 招聘平台聚合平台
 1. [Career Vault](https://careervault.io/) - 每天从数千家公司的职位页面中新增数百个远程工作机会。无需注册即可使用。
-2.  [Findwork](https://findwork.dev/) 会爬取多个招聘网站，并利用Glassdoor的招聘信息以及Crunchbase的融资信息来丰富招聘信息。
+2. [Findwork](https://findwork.dev/) 会爬取多个招聘网站，并利用Glassdoor的招聘信息以及Crunchbase的融资信息来丰富招聘信息。
 3. [Google Jobs](https://www.google.com/search?q=remote&ibp=htl;jobs#fpstate=tldetail&htidocid=IO0hI7dpKTSlzSKoAAAAAA%3D%3D&htin=1&htivrt=jobs) – 从多个招聘网站和雇主网站中收集招聘信息，并针对地点、职位类型等因素进行筛选。了解如何使用该工具，请参见[此处](https://support.google.com/websearch/answer/7498276?p=job_search_box&sa=X&ved=0ahUKEwid_qyLmJfXAhVD4YMKHYGBAK8Qra4CCGQoAQ&visit_id=1-636449234996681631-3229288694&rd=1)。
 4. [JS Remotely](https://javascript.jobs/remote) – 一个汇集了所有远程工作的JavaScript相关职位的网站。
 5. [Remote.io](https://wwwremote.io/) – 一个专注于技术领域的远程工作招聘网站和聚合平台。
