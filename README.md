@@ -507,15 +507,15 @@
 ## 社区
 
 1. [/r/telecommuting](https://www.reddit.com/r/telecommuting/?rdt=54904) - 子版块。  
-1. [remotes](https://github.com/remotesclub/remotes) - IRC频道  
-1. [Hacker Paradise](https://www.hackerparadise.org/) - 远程工作的程序员们聚集的社区。  
-1. [Remote Indian](https://remoteindian.com/) - 来自印度的远程工作者社区。  
-1. [Eleduck](https://eleduck.com) - 中国境内的远程工作者社区。  
-1. [Invide](https://www.invidelabs.com/developer.html) - 自2016年起成立的仅限受邀的远程开发者社区。同时还有面向新手的[公共Discord社区](https://discord.com/invite/92q23kCad2)。  
+2. [remotes](https://github.com/remotesclub/remotes) - IRC频道  
+3. [Hacker Paradise](https://www.hackerparadise.org/) - 远程工作的程序员们聚集的社区。  
+4. [Remote Indian](https://remoteindian.com/) - 来自印度的远程工作者社区。  
+5. [Eleduck](https://eleduck.com) - 中国境内的远程工作者社区。  
+6. [Invide](https://www.invidelabs.com/developer.html) - 自2016年起成立的仅限受邀的远程开发者社区。同时还有面向新手的[公共Discord社区](https://discord.com/invite/92q23kCad2)。  
 
 ## 会议  
 1. [9punto5](https://9punto5.cl/) - 拉丁美洲的远程工作会议。  
-1. [Git Commit Show](https://gitcommit.show/) - 旨在推广远程工作理念的教育会议，来自世界各地的参与者均可参加。  
+2. [Git Commit Show](https://gitcommit.show/) - 旨在推广远程工作理念的教育会议，来自世界各地的参与者均可参加。  
 
 ## 工具  
 #### 人力资源
@@ -524,25 +524,26 @@
 
 ### 沟通工具
 1. [Codeshare.io](https://codeshare.io/) – 基于浏览器的多用户实时代码共享工具，可支持视频聊天功能。
-1. [Fleep](https://fleep.io/) – 开发团队内部聊天与协作工具。
-1. [Floobits](https://floobits.com) – 支持屏幕共享的远程编程工具，可与Sublime、IntelliJ、Atom等编辑器集成。
-1. [Gather](https://www.gather.town/) – 视频通话空间，允许多人在不同会话中同时交流，切换会话如同在现实生活中一样方便。
-1. [IRCCloud](https://www.irccloud.com) – 基于浏览器的IRC客户端，支持永久存储功能。
-1. [Jitsi](https://jitsi.org) – 多平台开源视频会议工具。1. [Matrix](https://github.com/ResultadosDigitais/matrix) – Matrix是一个面向分布式团队的在线开源工作场所。
-2. [Mumble](https://www.mumble.info/documentation/) – Mumble是一款开源语音聊天软件。
+2. [Fleep](https://fleep.io/) – 开发团队内部聊天与协作工具。
+3. [Floobits](https://floobits.com) – 支持屏幕共享的远程编程工具，可与Sublime、IntelliJ、Atom等编辑器集成。
+4. [Gather](https://www.gather.town/) – 视频通话空间，允许多人在不同会话中同时交流，切换会话如同在现实生活中一样方便。
+5. [IRCCloud](https://www.irccloud.com) – 基于浏览器的IRC客户端，支持永久存储功能。
+6. [Jitsi](https://jitsi.org) – 多平台开源视频会议工具。
+7. [Matrix](https://github.com/ResultadosDigitais/matrix) – Matrix是一个面向分布式团队的在线开源工作场所。
+8. [Mumble](https://www.mumble.info/documentation/) – Mumble是一款开源语音聊天软件。
 3. [Precursor](https://precursorapp.com) – 一款简单的原型设计和头脑风暴工具，支持实时协作。
 4. [PukkaTeam](https://pukkateam.com/) – 通过定期自动拍摄自拍照和一键视频通话功能，实现真正的团队互动。
 5. [Rocket.Chat](https://www.rocket.chat/) – 终极开源网络聊天平台。
 6. [Signal](https://signal.org/) – 加密且安全的聊天和视频通话服务。
 7. [Skype](https://www.skype.com/) – 视频通话工具。
-8. [Slack](https://slack.com/) – 提供文本、语音和视频聊天功能的系统，支持多种集成功能，包括[Huddles](https://slack.com/features/huddles)，这是一种实时高清屏幕共享系统，适用于团队间的协作。1. [Talky](https://talky.io/)——真正简单的视频聊天和群组屏幕共享工具  
-1. [TeamHub](https://git.live/)——直接在您的集成开发环境（IDE）中实时查看状态和进度  
-1. [沉浸式视频通话技巧](https://www.benkuhn.net/vc/)——关于沉浸式视频通话的实用技巧  
-1. [Twist](https://twist.com/)——一个沟通平台，让长篇讨论和随意的消息传递能够和谐共存  
-1. [Whereby](https://whereby.com)——基于浏览器的、无需插件的群组视频通话工具  
-1. [Zoom](https://www.zoom.com)——高质量的群组视频通话和屏幕共享功能，适用于Linux系统，可录制会议，并支持电话通话  
-1. [Krisp](https://krisp.ai/)——在任何通信应用中都能消除背景噪音  
-1. [flat.social](https://flat.social/)——为在线会议、团队活动以及虚拟社交活动创造有趣的虚拟空间  
+9. [Slack](https://slack.com/) – 提供文本、语音和视频聊天功能的系统，支持多种集成功能，包括[Huddles](https://slack.com/features/huddles)，这是一种实时高清屏幕共享系统，适用于团队间的协作。1. [Talky](https://talky.io/)——真正简单的视频聊天和群组屏幕共享工具  
+10. [TeamHub](https://git.live/)——直接在您的集成开发环境（IDE）中实时查看状态和进度  
+11. [沉浸式视频通话技巧](https://www.benkuhn.net/vc/)——关于沉浸式视频通话的实用技巧  
+12. [Twist](https://twist.com/)——一个沟通平台，让长篇讨论和随意的消息传递能够和谐共存  
+13. [Whereby](https://whereby.com)——基于浏览器的、无需插件的群组视频通话工具  
+14. [Zoom](https://www.zoom.com)——高质量的群组视频通话和屏幕共享功能，适用于Linux系统，可录制会议，并支持电话通话  
+15. [Krisp](https://krisp.ai/)——在任何通信应用中都能消除背景噪音  
+16. [flat.social](https://flat.social/)——为在线会议、团队活动以及虚拟社交活动创造有趣的虚拟空间  
 
 ### 项目管理  
 1. [Asana](https://asana.com/)——适合分布式团队的项目管理工具1. [ClickUp](https://clickup.com/) - 一站式生产力平台，可将团队、任务和工具整合到同一平台上。
@@ -575,16 +576,20 @@
 ## 其他
 
 1. [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) - 为数字游民提供的优秀资源列表。
-1. [Established Remote](https://github.com/yanirs/established-remote) - 已建立的远程公司的列表。
-1. [LiquidSpace](https://liquidspace.com/) - 提供每日和每小时的办公室及会议室租赁服务。
-1. [Nomad List](https://nomads.com/) - 比较不同城市的生活成本和生活质量。
-1. [Regus USA](https://www.regus.com/en-gb) - 提供行政套房、虚拟办公室及会议室空间。
-1. [Remote Companies on Careers SO](https://stackoverflow.com/jobs/companies?q=&l=&r=true)
-1. [Remote Working](https://github.com/greatghoul/remote-working) - 为华人提供的远程工作资源列表。
-1. [WorkFrom](https://workfrom.co/) - 寻找适合工作的咖啡店。2. [Websoft9](https://github.com/Websoft9/websoft9) - 开源软件自托管平台，一键安装200多种应用程序，包含Jiti Meet、Rocketchat、GitLab、Mattermost等远程工具。
+2. [Established Remote](https://github.com/yanirs/established-remote) - 已建立的远程公司的列表。
+3. [LiquidSpace](https://liquidspace.com/) - 提供每日和每小时的办公室及会议室租赁服务。
+4. [Nomad List](https://nomads.com/) - 比较不同城市的生活成本和生活质量。
+5. [Regus USA](https://www.regus.com/en-gb) - 提供行政套房、虚拟办公室及会议室空间。
+6. [Remote Companies on Careers SO](https://stackoverflow.com/jobs/companies?q=&l=&r=true)
+7. [Remote Working](https://github.com/greatghoul/remote-working) - 为华人提供的远程工作资源列表。
+8. [WorkFrom](https://workfrom.co/) - 寻找适合工作的咖啡店。2. [Websoft9](https://github.com/Websoft9/websoft9) - 开源软件自托管平台，一键安装200多种应用程序，包含Jiti Meet、Rocketchat、GitLab、Mattermost等远程工具。
 
-## 许可证
+
+## 许可证-原
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 在法律允许的范围内，[Lukasz Madon](https://github.com/lukasz-madon)已放弃对本作品的所有版权及相关权利。
+
+## 现许可证
+见license
